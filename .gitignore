@@ -1,0 +1,5 @@
+*.sql~
+*.backup
+*_backup_*.sql
+.DS_Store
+*.log
